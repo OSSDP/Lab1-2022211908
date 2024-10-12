@@ -6,7 +6,7 @@ import edu.hit.ninth.service.Sys_userService;
 import edu.hit.ninth.utils.JwtUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
+
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.HashMap;
